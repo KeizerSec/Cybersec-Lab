@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Script simple pour scanner un réseau avec Nmap
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 <IP-range>"
+    exit 1
+fi
+
+IP_RANGE=$1
+OUTPUT="nmap_scan_$(date +%F_%H-%M).txt"
+
+echo "[+] Scanning the network: $IP_RANGE"
+nmap -sC -sV -oN $OUTPUT $IP_RANGE
+
+echo "[+] Scan complete, results saved in $OUTPUT"
