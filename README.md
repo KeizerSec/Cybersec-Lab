@@ -31,5 +31,6 @@ Plutôt que de garder mes tests dans un coin, je les documente ici, pour garder 
 🔗 [TryHackMe – Keizer](https://tryhackme.com/p/Keizer)
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1854027" style='border:none;'></iframe>
 
 🚨 *Ce dépôt est à but éducatif uniquement. Toute action illégale ou non éthique est strictement condamnée.*
