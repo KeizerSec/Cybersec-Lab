@@ -17,6 +17,8 @@ Ici, je partage mes expérimentations, scripts, notes techniques et write-ups r�
 ### 🧠 Write-Ups
 - `kenobi.md` – Exploitation d’une machine Linux via Samba + élévation de privilèges
 - `blue.md` – Exploitation de la faille EternalBlue sur Windows (MS17-010)
+- `vulnversity.md` – Analyse Web + Upload Shell + Reverse Shell
+- `rootme.md` – Injection Web + Escalade sudo vers Root
 
 ---
 
