@@ -1,5 +1,7 @@
 # 🧠 Cybersec Lab – by KeizerSec
 
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Keizer.png)
+
 Bienvenue sur mon laboratoire personnel de cybersécurité.  
 Ici, je partage mes expérimentations, scripts, notes techniques et write-ups réalisés au fil de ma progression dans l’univers de la sécurité informatique.
 
